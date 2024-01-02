@@ -16,10 +16,10 @@ This application will update daily and tell you the current day and month at the
 
 The following screenshots show the functionality of the app
 
-![screen shot 1 of the schedule app](assets/images/schedule-screenshot-1.PNG)
-![screen shot 1 of the schedule app](assets/images/schedule-screenshot-2.PNG)
-![screen shot 1 of the schedule app](assets/images/schedule-screenshot-3.PNG)
-![screen shot 1 of the schedule app](assets/images/05-third-party-apis-homework-demo.gif)
+![screen shot 1 of the schedule app](Assets/images/schedule-screenshot-1.PNG)
+![screen shot 1 of the schedule app](Assets/images/schedule-screenshot-2.PNG)
+![screen shot 1 of the schedule app](Assets/images/schedule-screenshot-3.PNG)
+![screen shot 1 of the schedule app](Assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Credits
 
